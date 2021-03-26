@@ -1,2 +1,8 @@
 # Kaggle-ML4NLP
-MSBD6000H: NLP course project1
+`Author: YUAN Yanzhe`
+
+This Repo records the NLP course project1: Argument Imapct Classification
+
+- `bert_classifier_test.ipynb`: fine-tunes BERT on the dataset and use a simple linear layer for classification
+- 
+
